@@ -19,6 +19,6 @@ First:
 
 Second:
 <br/>
-~ Basic Commands and instructions will appear in the terminal. 
-~ Simply follow the instructions, and the automation will do the rest.
+~ Basic Commands and instructions will appear in the terminal. <br/>
+~ Simply follow the instructions, and the automation will do the rest.<br/>
 ~ If you are getting a list of people that aren't following you back, the names will print in the terminal BUT it will also create a .txt file so it is more human friendly to read. 
