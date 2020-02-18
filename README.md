@@ -12,7 +12,7 @@ Instagram Bot created using Python
 
 First:
 <br/>
-~ Open up a terminal and navigate to the path you have 'main.py' stored, then run 'python passwordManager.py'.
+~ Open up a terminal and navigate to the path you have 'main.py' stored, then run 'python main.py'.
 <br/>
 ~ Make sure that the other files are within the same path, otherwise the program won't work.
 <br/>
